@@ -1,0 +1,84 @@
+#.Machine Learning:-
+=> Machine Learning is a subset of artificial intelligence that focuses on building systems that can learn from data and make predictions or decisions without being explicitly programmed.
+  Insted of following predefined rules, machine learning models are trained on data on identify patterns and relationships, allowing them to adapt and improve their performance overtime.
+
+Uses:-
+1. Real-Time Speech Recognition.  Ex-> Google Assistant, Alexa.
+2. Real-Time Fraud Detection in Financial Transactions.  Ex-> Credit Card Fraud detection.
+3. Real-Time Recommendation Systems.  Ex->  Netflix,  YouTube,  Amazon.
+4. Real-Time Object Detection and Autonomous Vehicles.   Ex-> Tesla Autopilot, Self-driving Cars.
+5. Real-Time Facial Recognition.  Ex-> Security Systems,  Airport Check-ins, Unlocking Phones.
+6. Real-Time Spam Detection in Emails.   Ex->  Gmails,  Outlook.
+7. Real-Time Social Media Monitoring.  Ex-> Twitter's trending topics,  Facebook's Content moderation.
+8. Real-Time Translation.  Ex-> Google Translate, Skype Translator.
+9. Real-Time HealthCare Monitoring.  Ex-> Weareable health device (e.g., Fitbit Apple Watch).
+10. Real-Time Customer Support (Chatbots). Ex-> Chatbots on  Websites  (e.g., Zendesk, Drift).
+
+
+# There are 3 Types of Machine Learning.
+1. Supervised Learning.
+2. Unsupervised Learning.
+3. Reinforcement Learning.
+
+# 1. Supervised Learning :-
+=> Examples.
+          -> Classification:-
+                          -> Predicting a Continuous Value (e.g., predicting house prices  based on Features Like Size and Location).
+          -> Application:- 
+                          -> Sentiment Analysis.
+                          -> Image Classification.
+                          -> Fraud Detection.
+                          -> Stock Price Prediction.
+
+# 2. Unsupervised Learning:-
+=> In Unsupervised Learning , the model is trained on data that does not have Labeled outputs.  The model tries to find hidden patterns or structures in the data. It often used for tasks like clustering or 
+reducing the dimensionality of the data.
+ Examples:- 
+          -> Clustering:-
+                        Grouping data into Clusters based on similarity (e.g., customer segmentation).
+          -> Dimensionality Reduction:-
+                                      Reducing the number of features while preserving the essential information (e.g., Principal component Analysis).
+          -> Applications:-
+                          -> Animal Detection.
+                          -> Market Basket Analysis.
+                          -> Recommender Systems (Collaborative Filtering).
+                          -> Document Clustering.
+
+# 3. Reinforcement Learning:-
+=> Reinforcement Learning is a type of learning  where an agent interacts with an environment and learns to make decisions by receiving rewards or penalities.  The goal is to learn a strategy(Policy) that
+ maximizes the Cumulative reward over time.
+Examples:-
+        -> Game playing (e.g., AlphaGo, Chess).
+        -> Robotics (e.g., Autonomous robots learning to navigate).
+
+        ->Applications:-
+                      -> Autonomous vehicles.
+                      -> Robotics Control.
+                      -> Dynamic Pricing in E-commerce.
+                      -> Stock Trading Algorithms.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
